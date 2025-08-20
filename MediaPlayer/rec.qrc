@@ -1,0 +1,16 @@
+<RCC>
+    <qresource prefix="/">
+        <file>linux.png</file>
+        <file>1标题栏测试资源/resources/titlebar/close_hover.svg</file>
+        <file>1标题栏测试资源/resources/titlebar/close.svg</file>
+        <file>1标题栏测试资源/resources/titlebar/max_hover.svg</file>
+        <file>1标题栏测试资源/resources/titlebar/max.svg</file>
+        <file>1标题栏测试资源/resources/titlebar/min_hover.svg</file>
+        <file>1标题栏测试资源/resources/titlebar/min.svg</file>
+        <file>1标题栏测试资源/resources/titlebar/normal_hover.svg</file>
+        <file>1标题栏测试资源/resources/titlebar/normal.svg</file>
+        <file>1标题栏测试资源/resources/titlebar/set_hover.svg</file>
+        <file>1标题栏测试资源/resources/titlebar/set.svg</file>
+        <file>1标题栏测试资源/resources/titlebar/title_icon.png</file>
+    </qresource>
+</RCC>
